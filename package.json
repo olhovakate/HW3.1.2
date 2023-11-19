@@ -1,7 +1,7 @@
 {
   "name": "hw3.1.2",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. Клонируй себе этот проект в локальный репозиторий",
   "main": "calculateBonus.js",
   "scripts": {
     "test": "jest"
@@ -10,5 +10,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "HW3.1.2"
   }
 }
